@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 12 May 2021 22:40:18 at https://doctoralvaropoma.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://doctoralvaropoma.com/ -O1 "C:\My Web Sites\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:40:21	Warning: 	Note: due to https://doctoralvaropoma.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+22:41:35	Error: 	"Method Not Allowed" (405) at link https://doctoralvaropoma.com/xmlrpc.php (from https://doctoralvaropoma.com/)
+22:41:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://doctoralvaropoma.com/wp-content/uploads/2020/11/cropped-logo-mini-192x192.jpg (from https://doctoralvaropoma.com/)
+22:41:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://doctoralvaropoma.com/wp-content/uploads/2020/11/cropped-logo-mini-180x180.jpg (from https://doctoralvaropoma.com/)
+22:41:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://doctoralvaropoma.com/blog/ (from https://doctoralvaropoma.com/)
+22:42:27	Warning: 	Note: due to doctoralvaropoma.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+22:42:27	Error: 	"Not Found" (404) at link doctoralvaropoma.com/wp-content/plugins/blogmentor/assets/webfonts/fa-brands-400.eot (from doctoralvaropoma.com/wp-content/cache/wpfc-minified/jprauhnq/dj6ax.css)
+22:42:27	Warning: 	File not parsed, looks like binary: doctoralvaropoma.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+22:42:27	Warning: 	File not parsed, looks like binary: doctoralvaropoma.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+22:42:27	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.portotheme.com/wordpress/porto/elementor/medical2/wp-content/uploads/sites/159/2020/06/medical2-bg-1.jpg (from https://doctoralvaropoma.com/wp-content/uploads/elementor/css/post-2.css?ver=1619369721)
+22:42:27	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.portotheme.com/wordpress/porto/elementor/medical2/wp-content/uploads/sites/159/2020/06/medical2-bg-2.png (from https://doctoralvaropoma.com/wp-content/uploads/elementor/css/post-2.css?ver=1619369721)
+22:42:28	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.portotheme.com/wordpress/porto/elementor/medical2/wp-content/uploads/sites/159/2020/06/medical2-bg-3.jpg (from https://doctoralvaropoma.com/wp-content/uploads/elementor/css/post-2.css?ver=1619369721)
+22:42:40	Warning: 	Moved Permanently for https://doctoralvaropoma.com/?p=15
+22:42:40	Warning: 	File has moved from https://doctoralvaropoma.com/?p=15 to https://doctoralvaropoma.com/departments/
+22:42:42	Warning: 	Moved Permanently for https://doctoralvaropoma.com/?p=6
+22:42:42	Warning: 	File has moved from https://doctoralvaropoma.com/?p=6 to https://doctoralvaropoma.com/contact-us/
+22:42:43	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.portotheme.com/wordpress/porto/elementor/medical2/wp-content/uploads/sites/159/2020/06/medical2-bg-1.jpg (from https://doctoralvaropoma.com/wp-content/uploads/elementor/css/post-2.css?ver=1619369721)
+22:42:43	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.portotheme.com/wordpress/porto/elementor/medical2/wp-content/uploads/sites/159/2020/06/medical2-bg-2.png (from https://doctoralvaropoma.com/wp-content/uploads/elementor/css/post-2.css?ver=1619369721)
+22:42:43	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.portotheme.com/wordpress/porto/elementor/medical2/wp-content/uploads/sites/159/2020/06/medical2-bg-3.jpg (from https://doctoralvaropoma.com/wp-content/uploads/elementor/css/post-2.css?ver=1619369721)
+22:42:43	Warning: 	Moved Permanently for https://doctoralvaropoma.com/?p=692
+22:42:43	Warning: 	File has moved from https://doctoralvaropoma.com/?p=692 to https://doctoralvaropoma.com/blog/
+22:42:53	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.portotheme.com/wordpress/porto/elementor/medical2/wp-content/uploads/sites/159/2020/06/medical2-bg-1.jpg (from https://doctoralvaropoma.com/wp-content/uploads/elementor/css/post-2.css?ver=1619369721)
+22:42:53	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.portotheme.com/wordpress/porto/elementor/medical2/wp-content/uploads/sites/159/2020/06/medical2-bg-2.png (from https://doctoralvaropoma.com/wp-content/uploads/elementor/css/post-2.css?ver=1619369721)
+22:42:53	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.portotheme.com/wordpress/porto/elementor/medical2/wp-content/uploads/sites/159/2020/06/medical2-bg-3.jpg (from https://doctoralvaropoma.com/wp-content/uploads/elementor/css/post-2.css?ver=1619369721)
+22:42:53	Warning: 	Moved Permanently for https://doctoralvaropoma.com/?p=200
+22:42:53	Warning: 	File has moved from https://doctoralvaropoma.com/?p=200 to https://doctoralvaropoma.com/2020/06/10/everyday-health-special-report/
+22:42:54	Warning: 	Moved Permanently for https://doctoralvaropoma.com/?p=198
+22:42:54	Warning: 	File has moved from https://doctoralvaropoma.com/?p=198 to https://doctoralvaropoma.com/2020/06/10/natural-flu-remedies-that-actually-work/
+22:42:54	Warning: 	Moved Permanently for https://doctoralvaropoma.com/?p=1
+22:42:54	Warning: 	File has moved from https://doctoralvaropoma.com/?p=1 to https://doctoralvaropoma.com/2020/06/09/can-weight-loss/
+22:42:54	Error: 	"Not Found" (404) at link https://doctoralvaropoma.com/CMSWebParts/CLCBlog/AjaxCLCBlogReservaTuHoraTooltip.aspx?idCentroMedico=1&nombre=Vicente&apellido=Guti%c3%a9rrez (from https://doctoralvaropoma.com/2020/06/09/can-weight-loss/)
+22:42:54	Error: 	"Not Found" (404) at link https://doctoralvaropoma.com/INFORMACION-AL-PACIENTE/Su-doctor/Perfil.aspx?codmed=941 (from https://doctoralvaropoma.com/2020/06/09/can-weight-loss/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 36 seconds : 169 links scanned, 145 files written (6533890 bytes overall) [6299984 bytes received at 40384 bytes/sec], 623679 bytes transferred using HTTP compression in 12 files, ratio 34%, 2.9 requests per connection
+(7 errors, 25 warnings, 0 messages)
